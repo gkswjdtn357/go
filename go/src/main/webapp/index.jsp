@@ -19,9 +19,6 @@
 			2) git repositories 탭 - [clone a git repostory]
 			3) 프로젝트에서 = [team] - [share project] 선택
 			
-			
-			
-			
 		커밋(commit) : git(로컬저장소)에 파일을 추가하거나 변경내용을 저장하는 작업
 		푸쉬(push) : github(원격저장소)에 파일을 추가하거나 변경내용을 저장하는 작업
 		풀(pull) : github(원격저장소)에서 파일을 다운로드 하는 작업
